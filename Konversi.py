@@ -29,7 +29,7 @@ st.write("by: Affandi Supriadi")
 st.write("Dosen: Ir. Rustamaji, M.T")
 
 st.write(
-        "Saya Affandi Supriadi dengan NRP 11-2021-020 mempersembahkan Aplikasi web Konversi bilangan Komplek. Untuk memenuhi tugas dari mata kuliah Dasar Telekomunikasi."
+        "Saya Affandi Supriadi dengan NRP 11-2021-020 mempersembahkan Aplikasi web konversi bilangan komplek, untuk memenuhi tugas dari mata kuliah Dasar Telekomunikasi."
     )
 st.write("---")
 col1, col2 = st.columns([1,11],gap= "medium")
